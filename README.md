@@ -13,4 +13,4 @@
         git push origin --delete v1.0
     - To delete local tags
         git tag -d v1.0
-        
+![Alt text](std.jpg)
